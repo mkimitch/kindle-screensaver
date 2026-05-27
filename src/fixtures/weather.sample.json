@@ -1,0 +1,43 @@
+{
+	"lat": 44.6201,
+	"lon": -93.1378,
+	"timezone": "America/Chicago",
+	"updatedAt": "2026-03-28T18:36:47.221514+00:00",
+	"current": {
+		"time": "2026-03-28T18:36:47+00:00",
+		"tempC": 7.43,
+		"feelsLikeC": 3.41,
+		"humidity": 36,
+		"condition": {
+			"main": "Clouds",
+			"desc": "scattered clouds"
+		}
+	},
+	"daily": [
+		{
+			"date": "2026-03-28",
+			"tempC": {
+				"min": -7.32,
+				"max": 13.1
+			},
+			"condition": {
+				"main": "Clouds",
+				"desc": "scattered clouds"
+			}
+		}
+	],
+	"alerts": [
+		{
+			"start": "2026-03-28T17:00:00+00:00",
+			"end": "2026-03-29T00:00:00+00:00",
+			"title": "Red Flag Warning",
+			"issuer": "NWS Twin Cities/Chanhassen MN"
+		}
+	],
+	"astronomy": {
+		"moonrise": "2026-03-28T13:31:00+00:00",
+		"moonset": "2026-03-29T04:52:00+00:00",
+		"sunrise": "2026-03-28T12:00:42+00:00",
+		"sunset": "2026-03-29T00:34:15+00:00"
+	}
+}

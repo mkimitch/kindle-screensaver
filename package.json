@@ -1,0 +1,18 @@
+{
+	"author": "Mark Kimitch <mark.kimitch@gmail.com>",
+	"dependencies": {
+		"lucide-static": "^1.16.0",
+		"playwright": "^1.58.2",
+		"sharp": "^0.34.5"
+	},
+	"description": "A screensaver for Kindle devices",
+	"name": "kindle-screensaver",
+	"packageManager": "yarn@4.13.0",
+	"private": true,
+	"scripts": {
+		"render": "node src/render-once.js",
+		"render:once": "node src/render-once.js",
+		"start": "node src/server.js"
+	},
+	"type": "module"
+}
